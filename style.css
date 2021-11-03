@@ -20,7 +20,7 @@ body {
 nav {
   position: fixed;
   top: 5%;
-  right: 0;
+  right: 2%;
   z-index: 2;
 }
 
@@ -34,7 +34,7 @@ ul a {
   color: black;
   font-size: 18px;
   font-weight: bolder;
-  background-color: aliceblue;
+  background-color: #FFFFFF;
   margin: 0 10px;
   padding: 6px 14px;
   border: none;
